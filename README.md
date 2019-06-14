@@ -1,2 +1,2 @@
 # Hello-JEFFY
-Initial learning repo
+So i'm brand new to this stuff and trying to re-bend my mind around coding :)
